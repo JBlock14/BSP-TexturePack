@@ -8,6 +8,8 @@
 
 It makes the world feel **more alive, vibrant, and expressive** without breaking Minecraft’s identity.
 
+---
+
 ## ✨ Visual Highlights
 
 <p align="center">
