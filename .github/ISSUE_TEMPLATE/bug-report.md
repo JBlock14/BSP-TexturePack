@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-*Please use the latest update for the plugin to avoid reporting an already fixed bug.*
+*Please use the latest update for the complement to avoid reporting an already fixed bug.*
 
 #Describe the problem:
 [Describe any issues, crashes, performance issues, or other problems in detail.]
@@ -15,6 +15,6 @@ assignees: ''
 #Screenshots (optional):
 [You can provide screenshots to demonstrate the error, if desired.]
 
-#Did you check if the error occurs without the plugin?
+#Did you check if the error occurs without the complement?
 
 [It could be a bug in another plugin or in the game itself.]
