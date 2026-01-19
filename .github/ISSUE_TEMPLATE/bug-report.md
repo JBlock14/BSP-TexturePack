@@ -1,8 +1,8 @@
 ---
-name: J Bug Report
+name: Bug Report
 about: Report a texture error, visual glitch, or missing texture
 title: "[Bug]"
-labels: bug
+labels: bug, enhancement
 assignees: ''
 
 ---
