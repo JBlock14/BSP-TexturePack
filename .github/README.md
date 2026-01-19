@@ -1,17 +1,45 @@
-# Best Saturation Pack (BSP)
+# 🌈 Best Saturation Pack (BSP)
 
-**Best Saturation Pack** is a Minecraft Java Edition resource pack that enhances the game’s colors and saturation while keeping the original vanilla style.
+<p align="center">
+  <img src="preview.gif" alt="Best Saturation Pack Preview" width="700">
+</p>
 
-The goal of this pack is to make the world feel more alive and vibrant without breaking Minecraft’s identity.
+**Best Saturation Pack** is a Minecraft Java Edition resource pack that enhances the game’s colors and saturation while preserving the original vanilla style.
+
+It makes the world feel **more alive, vibrant, and expressive** without breaking Minecraft’s identity.
+
+---
+
+## ✨ Visual Highlights
+
+<p align="center">
+  <img src="comparison.gif" alt="Vanilla vs BSP Comparison" width="700">
+</p>
+
+- More saturated and vivid colors  
+- Improved visual contrast  
+- Clean vanilla-inspired look  
+- No gameplay changes, purely visual  
 
 ---
 
 ## 🎨 Features
-- Increased color saturation
-- Clean and consistent vanilla-style textures
-- Brighter and more vivid blocks and items
-- Lightweight (16x)
-- Suitable for survival, building, and PvP
+- 🌈 Increased color saturation
+- 🧱 Clean and consistent vanilla-style textures
+- ✨ Brighter blocks, items, and environments
+- ⚡ Lightweight **16x** resolution
+- 🏹 Perfect for survival, building, and PvP
+
+---
+
+## 🎞️ Animated Textures
+Some textures may include **subtle animations** using Minecraft’s native resource pack system:
+
+- Loop-based animations
+- Visual-only enhancements
+- Fully compatible with vanilla Minecraft
+
+No scripts, no performance impact.
 
 ---
 
@@ -19,26 +47,27 @@ The goal of this pack is to make the world feel more alive and vibrant without b
 - **Minecraft Java Edition**
 - Supported versions: **1.8.x – 1.21.x**
 - Works with:
-  - Vanilla Minecraft
-  - OptiFine
-  - Sodium (resource pack compatible)
-  - Most shader packs
+  - ✅ Vanilla Minecraft
+  - ✅ OptiFine
+  - ✅ Sodium (resource pack compatible)
+  - ✅ Most shader packs
 
 ---
 
 ## 📥 Download
-You can download the resource pack from Modrinth:
+Get the latest version on **Modrinth**:
 
 👉 https://modrinth.com/resourcepack/bestsaturation_pack
 
 ---
 
 ## 🐞 Issue Tracker
-If you find bugs, texture issues, or have suggestions, please report them here:
+Found a bug, texture issue, or have a suggestion?
 
-👉 https://github.com/JBlock14/BSP-TexturePack/issues
+👉 **Report it here:**  
+https://github.com/JBlock14/BSP-TexturePack/issues
 
-When reporting an issue, please include:
+Please include:
 - Minecraft version
 - Resource pack version
 - Screenshots (if possible)
@@ -46,23 +75,27 @@ When reporting an issue, please include:
 ---
 
 ## 📦 Installation
-1. Download the `.zip` file from Modrinth
-2. Open Minecraft → **Options → Resource Packs**
-3. Move the `.zip` file into the `resourcepacks` folder
-4. Enable the pack in-game
+1. Download the `.zip` file from Modrinth  
+2. Open Minecraft → **Options → Resource Packs**  
+3. Move the `.zip` into the `resourcepacks` folder  
+4. Enable the pack in-game  
 
 ---
 
 ## 🔄 Updates
-The pack is updated regularly to improve textures and fix reported issues.
+Best Saturation Pack is updated regularly to:
+- Improve textures
+- Fix reported issues
+- Support new Minecraft versions
 
 ---
 
 ## 📜 License
-All textures are created by the author.  
-Do **not** redistribute, reupload, or modify without permission.
+All textures are created by the author.
+
+🚫 Do **not** redistribute, reupload, or modify without permission.
 
 ---
 
 ## ❤️ Credits
-Created by **JBlock**
+Created with care by **JBlock**
