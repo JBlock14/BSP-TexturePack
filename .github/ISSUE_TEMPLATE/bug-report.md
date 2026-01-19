@@ -1,32 +1,20 @@
 ---
 name: Bug Report
-about: Report a texture error, visual glitch, or missing texture
-title: "[Bug]"
+about: Create a report for BSP complement
+title: '[BUG] "short issue description"'
 labels: bug, enhancement
 assignees: ''
 
 ---
 
-### Describe the issue
-Explain clearly what texture is wrong or broken.
+*Please use the latest update for the plugin to avoid reporting an already fixed bug.*
 
-### Affected texture / block / item
-Example: Oak Planks, Diamond Sword, GUI, Armor, etc.
+#Describe the problem:
+[Describe any issues, crashes, performance issues, or other problems in detail.]
 
-### What is happening?
-Describe the visual problem (wrong color, stretched, missing, flickering, etc.).
+#Screenshots (optional):
+[You can provide screenshots to demonstrate the error, if desired.]
 
-### Expected behavior
-What should the texture look like?
+#Did you check if the error occurs without the plugin?
 
-### Minecraft version
-Example: 1.20.1
-
-### Resource Pack version
-Example: v1.2
-
-### Mods / Shaderpacks (if any)
-List mods or shaders you are using, or write "None".
-
-### Screenshots
-Attach screenshots if possible (VERY IMPORTANT).
+[It could be a bug in another plugin or in the game itself.]

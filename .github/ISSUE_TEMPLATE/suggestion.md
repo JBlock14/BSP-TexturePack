@@ -1,7 +1,7 @@
 ---
 name: Suggestion
 about: Create a request for BSP complement
-title: "[Suggestion]"
+title: '[SUGGESTION] "describe suggestion"'
 labels: enhancement
 assignees: ''
 
