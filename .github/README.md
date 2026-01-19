@@ -32,45 +32,16 @@ It makes the world feel **more alive, vibrant, and expressive** without breaking
 
 ---
 
-## 🎞️ Animated Textures
-Some textures may include **subtle animations** using Minecraft’s native resource pack system:
-
-- Loop-based animations
-- Visual-only enhancements
-- Fully compatible with vanilla Minecraft
-
-No scripts, no performance impact.
-
----
-
 ## 🧩 Compatibility
 - **Minecraft Java Edition**
-- Supported versions: **1.8.x – 1.21.x**
-- Works with:
-  - ✅ Vanilla Minecraft
-  - ✅ OptiFine
-  - ✅ Sodium (resource pack compatible)
-  - ✅ Most shader packs
+- Supported versions: **1.8.x - 1.16.x - 1.21.x**
 
 ---
 
 ## 📥 Download
-Get the latest version on **Modrinth**:
-
-👉 https://modrinth.com/resourcepack/bestsaturation_pack
-
----
-
-## 🐞 Issue Tracker
-Found a bug, texture issue, or have a suggestion?
-
-👉 **Report it here:**  
-https://github.com/JBlock14/BSP-TexturePack/issues
-
-Please include:
-- Minecraft version
-- Resource pack version
-- Screenshots (if possible)
+Get the latest version:
+- 👉 **Modrinth:** https://modrinth.com/resourcepack/bestsaturation_pack
+- 👉 **CurseForge:** https://www.curseforge.com/minecraft/texture-packs/bestsaturation-pack
 
 ---
 
@@ -87,13 +58,6 @@ Best Saturation Pack is updated regularly to:
 - Improve textures
 - Fix reported issues
 - Support new Minecraft versions
-
----
-
-## 📜 License
-All textures are created by the author.
-
-🚫 Do **not** redistribute, reupload, or modify without permission.
 
 ---
 
